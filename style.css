@@ -1,0 +1,38 @@
+body{
+    background-color: salmon;
+   height: 100vh;
+    background-image: linear-gradient(to right,#fff3ea,#ffdfbb);
+}
+h2{
+    font-family: "Century Gothlic" ,sans-serif;
+    text-align: center;
+}
+h3{
+    font-family: "Century Gothlic" ,sans-serif;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+ul{
+    font-family: "Century Gothlic" ,sans-serif;
+}
+a:link{
+    color: sienna;
+    background-color: transparent;
+}
+a:hover{
+    color: maroon;
+    background-color: transparent;
+}
+a:visited{
+    color: orange;
+    background-color: transparent;
+}
+a:active{
+    color: tomato;
+    background-color: transparent;
+}
